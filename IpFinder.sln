@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IpFinder", "IpFinder\IpFinder.csproj", "{CA52FA31-F557-4E87-8CD1-511E026BD1B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA52FA31-F557-4E87-8CD1-511E026BD1B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA52FA31-F557-4E87-8CD1-511E026BD1B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA52FA31-F557-4E87-8CD1-511E026BD1B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA52FA31-F557-4E87-8CD1-511E026BD1B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6FC35DE-CD18-4AA9-9172-53FA92E2CE22}
+	EndGlobalSection
+EndGlobal
